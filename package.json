@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-gyp": "^10.1.0",
+    "npm-cli": "^0.1.0"
+  },
+  "name": "wasm-game-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rustwasm/wasm_game_of_life.git",
+  "author": "randymcmillan <randy.lee.mcmillan@gmail.com>",
+  "license": "MIT"
+}
